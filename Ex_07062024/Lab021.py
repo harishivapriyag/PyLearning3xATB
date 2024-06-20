@@ -1,0 +1,10 @@
+msg = "Hi! Harini, Have a fantastic day!"
+print(msg)
+print(type(msg))
+print(len(msg))
+print(msg[0])
+print(msg[6])
+print(msg[0:2])
+print(msg[-1])
+print(msg[-7])
+print(msg[-4:-2])

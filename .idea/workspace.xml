@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0815efc2-4ce2-432b-aa0c-53c82cc3b050" name="Changes" comment="Adding 'Lab002' to commit">
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05062024/abc.txt" afterDir="false" />
+    <list default="true" id="0815efc2-4ce2-432b-aa0c-53c82cc3b050" name="Changes" comment="Adding 'Python Basic Ex's to commit">
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,13 +78,99 @@
     "Python.Lab011.executor": "Run",
     "Python.Lab012.executor": "Run",
     "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Debug",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RunManager" selected="Python.Lab024">
+    <configuration name="Lab016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_07062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_07062024/Lab016.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_07062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_07062024/Lab021.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_07062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_07062024/Lab024.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab024" />
+        <item itemvalue="Python.Lab021" />
+        <item itemvalue="Python.Lab016" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -118,13 +203,138 @@
       <option name="project" value="LOCAL" />
       <updated>1717519944912</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding 'Python Basic Ex's to commit">
+      <option name="closed" value="true" />
+      <created>1718036929439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718036929439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Adding 'Lab001' to commit" />
     <MESSAGE value="Adding 'Lab002' to commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding 'Lab002' to commit" />
+    <MESSAGE value="Adding 'Python Basic Ex's to commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 'Python Basic Ex's to commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab021.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab021.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab021.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab021.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab021.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab021.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab021.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_07062024/Lab024.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
