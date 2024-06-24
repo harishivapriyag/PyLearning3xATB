@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0815efc2-4ce2-432b-aa0c-53c82cc3b050" name="Changes" comment="Adding 'Python Basic Ex's to commit">
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_07062024/Lab024.py" afterDir="false" />
+    <list default="true" id="0815efc2-4ce2-432b-aa0c-53c82cc3b050" name="Changes" comment="Adding 'Python Data Types' to commit">
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,14 +89,25 @@
     "Python.Lab022.executor": "Run",
     "Python.Lab023.executor": "Run",
     "Python.Lab024.executor": "Debug",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab024">
+  <component name="RunManager">
     <configuration name="Lab016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
@@ -165,9 +176,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab016" />
         <item itemvalue="Python.Lab024" />
         <item itemvalue="Python.Lab021" />
-        <item itemvalue="Python.Lab016" />
       </list>
     </recent_temporary>
   </component>
@@ -211,15 +222,60 @@
       <option name="project" value="LOCAL" />
       <updated>1718036929439</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding 'Python Data Types' to commit">
+      <option name="closed" value="true" />
+      <created>1718900983441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718900983441</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="5ebabf24-8f75-435c-942a-8fb54d5298b1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="5ebabf24-8f75-435c-942a-8fb54d5298b1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Harini/PycharmProjects/PyLearning3xATB/Ex_07062024" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Adding 'Lab001' to commit" />
     <MESSAGE value="Adding 'Lab002' to commit" />
     <MESSAGE value="Adding 'Python Basic Ex's to commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding 'Python Basic Ex's to commit" />
+    <MESSAGE value="Adding 'Python Data Types' to commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 'Python Data Types' to commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
