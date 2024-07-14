@@ -12,8 +12,9 @@ n = int(input("Enter a number: \n"))
 fact = 1
 for i in range(1, n + 1):
     fact = fact * i
-    print(fact)
-    # print("The factorial of", n, "is", fact)
+
+print(fact)
+print("The factorial of", n, "is", fact)
 
 # 2 # using while loop
 num = int(input("Enter a number: \n"))
@@ -21,8 +22,9 @@ f = 1
 while num > 0:
     f = f * num
     num = num - 1
-    print(f)
-    # print("The factorial of", num, "is", f)
+
+print(f)
+print("The factorial of", num, "is", f)
 
 # 3 # Input number
 number = int(input("Enter a number:"))
@@ -42,8 +44,9 @@ else:
         factorial *= i
         i += 1
 
-    # Print the result
-    print(f"The factorial of {number} is {factorial}.")
+# Print the result
+print(f"The factorial of {number} is {factorial}.")
+
 # 4 # Using while loop
 Num = int(input("Enter number: "))
 Fact = 1
@@ -60,9 +63,10 @@ for i in range(1, Num2 + 1):
     Fact1 = Fact1 * i
     print(i, end=' ')
     if i < Num2:
-
         print("*", end=' ')
+
 print("\nFactorial: ", Fact1)
+
 # 6 # Input number
 number = int(input("Enter a number:"))
 
@@ -79,5 +83,5 @@ else:
     for i in range(1, number + 1):
         factorial *= i
 
-    # Print the result
-    print(f"The factorial of {number} is {factorial}.")
+# Print the result
+print(f"The factorial of {number} is {factorial}.")
