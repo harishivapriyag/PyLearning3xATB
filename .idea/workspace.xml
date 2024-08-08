@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0815efc2-4ce2-432b-aa0c-53c82cc3b050" name="Changes" comment="Adding 'Loops, Break, Pass, Match Case, Functions' to commit">
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab072.py" afterDir="false" />
+    <list default="true" id="0815efc2-4ce2-432b-aa0c-53c82cc3b050" name="Changes" comment="Adding 'Functions' to commit">
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab085.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024_Tasks/Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_12062024_Tasks/Factorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +140,19 @@
     "Python.Lab070.executor": "Run",
     "Python.Lab071.executor": "Run",
     "Python.Lab072.executor": "Debug",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077.executor": "Run",
+    "Python.Lab078.executor": "Run",
+    "Python.Lab079.executor": "Run",
+    "Python.Lab080.executor": "Run",
+    "Python.Lab081.executor": "Run",
+    "Python.Lab082.executor": "Run",
+    "Python.Lab083.executor": "Run",
+    "Python.Lab084.executor": "Run",
+    "Python.Lab085.executor": "Run",
     "Python.Leapyear.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
@@ -234,7 +247,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
       </set>
     </attachedChunks>
   </component>
@@ -327,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720339554506</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Adding 'Functions' to commit">
+      <option name="closed" value="true" />
+      <created>1720955782705</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720955782705</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,7 +398,8 @@
     <MESSAGE value="Adding 'Operators' to commit" />
     <MESSAGE value="Adding 'Task of 12-06-2024' to commit" />
     <MESSAGE value="Adding 'Loops, Break, Pass, Match Case, Functions' to commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding 'Loops, Break, Pass, Match Case, Functions' to commit" />
+    <MESSAGE value="Adding 'Functions' to commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 'Functions' to commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
